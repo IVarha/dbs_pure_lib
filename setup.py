@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='dbs_pure_lib',
-    version='0.0.1',
+    version='0.0.2',
     packages=['dbs_image_utils'],
     description='DBS Image Utilities',
     long_description=open("README.md").read(),
