@@ -9,7 +9,7 @@ setup(
     packages=['dbs_image_utils'],
     description='DBS Image Utilities',
     long_description=open("README.md").read(),
-    install_requires=['torch'],
+    install_requires=['torch','nibabel'],
     url='',
     license='',
     author='igor_varha',
